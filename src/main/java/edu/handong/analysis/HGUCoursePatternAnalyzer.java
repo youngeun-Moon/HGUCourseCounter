@@ -116,6 +116,7 @@ public class HGUCoursePatternAnalyzer {
 			} 
 			
 		}
+		countNumber.add(0,"StudentID, TotalNumberOfSemestersRegistered, Semester, NumCoursesTakenInTheSemester");
 		
 		return countNumber; // do not forget to return a proper variable.
 	}
