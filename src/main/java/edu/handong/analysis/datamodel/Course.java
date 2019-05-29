@@ -35,5 +35,13 @@ public class Course{
 	public int getSemesterCourseTaken() {
 		return semesterCourseTaken;
 	}
+
+	public String getCourseName() {
+		return courseName;
+	}
+
+	public String getCourseCode() {
+		return courseCode;
+	}
 	
 }
